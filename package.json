@@ -2,19 +2,16 @@
   "name": "echo",
   "version": "1.0.0",
   "description": "Respond back everything what a client send to a server",
-  "main": "echo.js",
-  "scripts": {
-    "test": "echo"
-  },
+  "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "echo"
+    "url": "https://github.com/FangfangFu/Echo-Server"
   },
   "keywords": [
-    "echo"
+    "echo", "simple server", "server template"
   ],
   "author": "Fangfang Fu",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.13.4"
   }
