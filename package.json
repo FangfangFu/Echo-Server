@@ -1,0 +1,21 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "description": "Respond back everything what a client send to a server",
+  "main": "echo.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "echo"
+  },
+  "keywords": [
+    "echo"
+  ],
+  "author": "Fangfang Fu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
