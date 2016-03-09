@@ -5,10 +5,10 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FangfangFu/Echo-Server"
+    "url": "https://github.com/FangfangFu/Echo-Server.git"
   },
   "keywords": [
-    "echo", "simple server", "server template"
+    "echo server", "simple server", "server template"
   ],
   "author": "Fangfang Fu",
   "license": "MIT",
